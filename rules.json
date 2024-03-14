@@ -1,0 +1,42 @@
+[
+  {
+    "id": "القوانين المدينة",
+    "title": "القوانين المدينة",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "قــوانــيـن الــدسـكـورد",
+    "title": "قــوانــيـن الــدسـكـورد",
+    "description": "data/file-1.txt"
+  },
+  {
+    "id": "قوانين ادارة",
+    "title": "قوانين ادارة",
+    "description": "data/file-2.txt"
+  },
+  {
+    "id": "القوانين العامة للتفاوض",
+    "title": "القوانين العامة للتفاوض",
+    "description": "data/file2.txt"
+  },
+  {
+    "id": "قانون المداهمات",
+    "title": "قانون المداهمات",
+    "description": "data/file3.txt"
+  },
+  {
+    "id": "القوانين الأساسية للعصابات",
+    "title": "القوانين الأساسية للعصابات",
+    "description": "data/file4.txt"
+  },
+  {
+    "id": "قوانين بلاك ماركت",
+    "title": "قوانين بلاك ماركت",
+    "description": "data/file5.txt"
+  },
+  {
+    "id": "قوانين الفعاليات",
+    "title": "قوانين الفعاليات",
+    "description": "data/file6.txt"
+  }
+]
